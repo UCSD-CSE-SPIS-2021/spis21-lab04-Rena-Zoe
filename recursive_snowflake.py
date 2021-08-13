@@ -1,4 +1,4 @@
-
+#we are trying to draw a snowflake
 import turtle
 
 #Snowflake:
